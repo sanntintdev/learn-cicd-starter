@@ -1,4 +1,4 @@
-name: ic
+name: ci
 
 on:
     pull_request:
